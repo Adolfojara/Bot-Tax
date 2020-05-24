@@ -2,7 +2,7 @@
 
 El curso está dirigido a los estudiantes de la carrera de Agronomía, tiene una duración de 80 horas, asignadas en 16 semanas. Se dedicarán 32 horas a clases magistrales, 48 a laboratorio. Se presentarán los fundamentos y métodos de la Taxonomía y Sistemática Botánica, capacitando a los alumnos para su manejo y aplicación, mediante el estudio y caracterización de las principales familias botánicas de importancia agronómica y económica en el país. El estudiante aprenderá a hacer colecciones botánicas, identificación y descripción de familias y especies vegetales, a llevar una libreta de campo, a consultar bibliografía pertinente, y a presentar los resultados de sus investigaciones y aprendizaje.
 
-#Objetivos de aprendizaje
+## Objetivos de aprendizaje
 
 Al final del curso los estudiantes estarán en capasidad de:
 
@@ -14,3 +14,13 @@ Al final del curso los estudiantes estarán en capasidad de:
 *Evaluar y reconocer los principales caracteres diagnósticos para la identificación de material fresco y de herbario a través de la aplicación de claves botánicas.
 *Reforzar el estudio de las características morfológicas y botánicas de las familias para lograr su reconocimiento en el campo.
 *Considerar el trabajo taxonómico como parte fundamental y apoyo importante a la investigación en agronomía.
+
+# Semana 1. Introducción a la Botánica sistemática
+.
+# Semana 10. Fabidas 2/2
+Un cambio fundamental se dio en la familia Fabaceae, con el artículo de xxxx 2017, en el cual se presentó una nueva claseificación infrafamiliar para la familia Fabaceae. 
+
+
+
+
+
