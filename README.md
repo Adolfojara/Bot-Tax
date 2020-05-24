@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## Bienvenidos al curso de Botánica Taxonómica para Agrónomos
 
-You can use the [editor on GitHub](https://github.com/Adolfojara/Curso-Bot-nica-Taxon-mica/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+El curso está dirigido a los estudiantes de la carrera de Agronomía, tiene una duración de 80 horas, asignadas en 16 semanas. Se dedicarán 32 horas a clases magistrales, 48 a laboratorio. Se presentarán los fundamentos y métodos de la Taxonomía y Sistemática Botánica, capacitando a los alumnos para su manejo y aplicación, mediante el estudio y caracterización de las principales familias botánicas de importancia agronómica y económica en el país. El estudiante aprenderá a hacer colecciones botánicas, identificación y descripción de familias y especies vegetales, a llevar una libreta de campo, a consultar bibliografía pertinente, y a presentar los resultados de sus investigaciones y aprendizaje.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#Objetivos de aprendizaje
 
-### Markdown
+Al final del curso los estudiantes estarán en capasidad de:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Adolfojara/Curso-Bot-nica-Taxon-mica/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+*Comprender los fundamentos teóricos y prácticos de la Taxonomía y la Sistemática Vegetal y su papel en el reconocimiento y estudio de las plantas útiles.
+*Entender las bases biológicas y metodológicas del proceso de clasificación.
+*Presentar los conceptos teóricos en sistemática, enfatizando en las nuevas escuelas (sistemática filogenética) y sus propuestas de clasificación.
+*Dar a conocer los diferentes elementos de la sistemática botánica, el estado actual de su desarrollo, su posible futuro y la importancia de su aplicación.
+*Dar una visión amplia de la clasificación y de las características generales de los órdenes y familias de angiospermas más representativas de Colombia, destacando las especies de valor económico, a nivel de malezas, cultivos y plantas ornamentales.
+*Evaluar y reconocer los principales caracteres diagnósticos para la identificación de material fresco y de herbario a través de la aplicación de claves botánicas.
+*Reforzar el estudio de las características morfológicas y botánicas de las familias para lograr su reconocimiento en el campo.
+*Considerar el trabajo taxonómico como parte fundamental y apoyo importante a la investigación en agronomía.
