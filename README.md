@@ -4,7 +4,7 @@ El curso está dirigido a los estudiantes de la carrera de Agronomía, tiene una
 
 ## Objetivos de aprendizaje
 
-Al final del curso los estudiantes estarán en capasidad de:
+Al final del curso los estudiantes estarán en capacidad de:
 
 * Comprender los fundamentos teóricos y prácticos de la Taxonomía y la Sistemática Vegetal y su papel en el reconocimiento y estudio de las plantas útiles.
 * Entender las bases biológicas y metodológicas del proceso de clasificación.
