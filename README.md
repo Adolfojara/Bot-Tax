@@ -27,8 +27,14 @@ La familia más diversa y económicamente importante de este orden es Fabaceae, 
 
 Un cambio fundamental se dio hace poco en la clasificación de esta familia [LPWG 2017](https://scinapse.io/papers/2591630414), es este artículo se propone, de forma resumida, la clasificación tradicional incluye tres familias, Momosoideae, Caesalpinioideae, y Papilionoideae, con la nueva clasificación, dado que la subfamilia Caesalpinioideae es parafilética, se desició agragar tres nuevas subfamilias e incluir a Mimosoideae dentro de Caesalpinioideae.
 
+Tradicionalmente estas eran las caracteristicas que permitian reconocer las tres subfamilias
 
-
+Caracter | Papilionoideae | Caesalpinioideae | Mimosoideae 
+---------|----------------|------------------|------------
+Simetría floral | Claramente monosimétrica, papilionada | Débilmente monosimétrica | actinomorfa
+Número de estambres | generalmente 10 | generalmente 10 | incontables
+División de las hojas | trifolioladas o imparipinadas | pinadas o bipinadas | generalmente bipinadas (excepto en *Inga*)
+Nectarios extraflorales | ausentes | poco comunes | muy comunes
 
 # Semana 11. Malvidas
 
