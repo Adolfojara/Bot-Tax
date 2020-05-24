@@ -23,7 +23,7 @@ Al final del curso los estudiantes estarán en capasidad de:
 ## Familia Fabaceae
 La familia más diversa y económicamente importante de este orden es Fabaceae, allí encontramos especies tan importantes como el frijol (Phaseoulus vulgare), la arveja (Pisum sativum) y la lenteja [(Lens culinaris)](https://es.wikipedia.org/wiki/Lens_culinaris).
 
-![Morfología en Leguminosae](figure-11.png)
+![Morfología en Leguminosae](documentation/figure-11.jpg)
 
 Un cambio fundamental se dio hace poco en la clasificación de esta familia [LPWG 2017](https://scinapse.io/papers/2591630414), es este artículo se propone, de forma resumida, la clasificación tradicional incluye tres familias, Momosoideae, Caesalpinioideae, y Papilionoideae, con la nueva clasificación, dado que la subfamilia Caesalpinioideae es parafilética, se desició agragar tres nuevas subfamilias e incluir a Mimosoideae dentro de Caesalpinioideae.
 
