@@ -39,11 +39,38 @@ Nectarios extraflorales | ausentes | poco comunes | muy comunes
 # Semana 11. Malvidas
 Este clado, junto con las Fabidas, conforma las Rosidas nucleares. Está conformado por 8 órdenes, de estos, Myrtales y Geraniales forman un clado bien soportado, sin embargo las relaciones de este par de órdenes con los otros no está fuertemente soportada.
 
+Estas son las relaciones entre los ordenes de Malvidas.
+
 ![Filogenia Malvales](img/new_malv.svg)
 
-## Myrtales
+A continuación les presento un resumen de los órdenes y familias que vimos en la clase. 
 
-Dos familias son especialmente importantes en este orden, Myrtaceae y Melastomataceae. 
+Orden | familia | hojas | fórmula floral | caracteres clave
+------|---------|-------|----------------|---------------
+Myrtales | Myrtaceae | simples-opuestas | * , K(4-5), C (4-5), A (∞), Ĝ (-2-5-) | hojas con puntos translucidos, venación broquidódroma
+
+Myrtales | Melastomataceae | simples-opuestas | * , [K(3-6), C (4-5), A (∞)], Ĝ (2-10) | venación acródroma 
+
+Según el [catálogo de las plantas de Colombia](http://catalogoplantasdecolombia.unal.edu.co/es/), en Colombia existen 60 géneros y 987 especies de esta familia. Es especialmente diversa en bosques andinos, y es frecuentemente una de las familias dominantes en el estrato arbóreo.
+
+### Myrtaceae
+
+Una familia de gran importancia agrícola, allí encontramos varias especies comestibles como:
+
+* Guayaba (*Psdium guajava*)
+* Feijoa (*Acca sellowiana*)
+* Guayaba Agria (*Psidium friedrichsthalianum*)
+
+Numerosas especies maderables y ornamentales introducidas de Australia:
+
+* Eucalipto (*Eucalyptus globulus*, *Eucalyptus camandulensis*, *Eucalyptus cinerea*, *Eucalyptus grandis*, 
+* Eucalyptus recinifera*, *Corymbia fiscifolia*) 
+ 
+ Algunas especies nativas que se cultivan en el arbolado urbano de Bogotá:
+
+* Arrayán (*Myrcianthes leucoxyla*)
+* Arrayán Negro (*Myrcianthes rophaloides*)
+
 
 ## Sapindales
 
