@@ -39,7 +39,7 @@ Nectarios extraflorales | ausentes | poco comunes | muy comunes
 # Semana 11. Malvidas
 Este clado, junto con las Fabidas, conforma las Rosidas nucleares. Está conformado por 8 órdenes, de estos, Myrtales y Geraniales forman un clado bien soportado, sin embargo las relaciones de este par de órdenes con los otros no está fuertemente soportada.
 
-![Filogenia Malvales](img/new_malvs.svg)
+![Filogenia Malvales](img/new_malv.svg)
 
 ## Myrtales
 
