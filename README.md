@@ -33,12 +33,12 @@ Número de estambres | generalmente 10 | generalmente 10 | incontables
 División de las hojas | trifolioladas o imparipinadas | pinadas o bipinadas | generalmente bipinadas (excepto en *Inga*)
 Nectarios extraflorales | ausentes | poco comunes | muy comunes
 
->*Actividad de la semana*
+### *Actividad de la semana*
 Leerán por lo menos las cinco primeras páginas el artículo de [Yahara et al. 2013](https://scinapse.io/papers/2021369172), que también está disponible en el [Drive](https://drive.google.com/drive/u/1/folders/1UP3_kcpkwKeg_e1UIyjlxf05HyVDmhMV) y en Moodle.
   
 
 # Semana 11. Malvidas
-Este clado, junto con las Fabidas, conforma las Rosidas nucleares. Está conformado por 8 órdenes, de estos, Myrtales y Geraniales forman un clado bien soportado, sin embargo las relaciones de este par de órdenes con los otros no está fuertemente soportada.
+Este clado, junto con las Fabidas, conforma las Rosidas nucleares. Está compuesto por 8 órdenes, de los cuales, Myrtales y Geraniales forman un clado cuyas relaciones con los otros no está claramente resuelta.
 
 Estas son las relaciones entre los ordenes de Malvidas.
 
@@ -46,17 +46,15 @@ Estas son las relaciones entre los ordenes de Malvidas.
 
 A continuación les presento un resumen de los órdenes y familias que vimos en la clase. 
 
-Orden | familia | hojas | fórmula floral | caracteres clave
-------|---------|-------|----------------|---------------
-Myrtales | Myrtaceae | simples-opuestas | * , K(4-5), C (4-5), A (∞), Ĝ (-2-5-) | hojas con puntos translucidos, venación broquidódroma
-Myrtales | Melastomataceae | simples-opuestas | * ó ↓, [K(3-6), C (4-5), A (∞)], Ĝ (2-10) | venación acródroma 
-Brassicales | Brassicaceae | simples-alternas, en rosetas basales | * ó ↓, K4, C4, A(2-)6-∞, G (2) | estambres tetradínamos, frecuentemente fruto en silicua
-Brassicales | Caricaceae | simples(lobuladas)-alternas | est * , K5, [C(5), A5+5,] G0, pis * , K5, [C(5), A5+5,] G0 | Crecimiento paquicaule     
 
+## Myrtales
 
-Según el [catálogo de las plantas de Colombia](http://catalogoplantasdecolombia.unal.edu.co/es/), en Colombia existen 60 géneros y 987 especies de esta familia. Es especialmente diversa en bosques andinos, y es frecuentemente una de las familias dominantes en el estrato arbóreo.
+ familia | hojas | fórmula floral | caracteres clave
+---------|-------|----------------|----------------
+Myrtaceae | simples-opuestas | * , K(4-5), C (4-5), A (∞), Ĝ (-2-5-) | hojas con puntos translucidos, venación broquidódroma
+Melastomataceae | simples-opuestas | * ó ↓, [K(3-6), C (4-5), A (∞)], Ĝ (2-10) | venación acródroma 
 
-### Especies útiles en la familia Myrtaceae
+### familia Myrtaceae
 
 Una familia de gran importancia agrícola, allí encontramos varias especies comestibles como:
 
@@ -74,10 +72,29 @@ Numerosas especies maderables y ornamentales introducidas de Australia:
 * Arrayán (*Myrcianthes leucoxyla*)
 * Arrayán Negro (*Myrcianthes rophaloides*)
 
+### familia Melastomataceae
+
+Según el [catálogo de las plantas de Colombia](http://catalogoplantasdecolombia.unal.edu.co/es/), en Colombia existen 60 géneros y 987 especies de esta familia. Es especialmente diversa en bosques andinos, y es frecuentemente una de las familias dominantes en el estrato arbóreo.
+
+## Brassicales
+
+familia | hojas | fórmula floral | caracteres clave
+--------|-------|----------------|------------------
+Brassicaceae | simples-alternas, en rosetas basales | * ó ↓ K4 C4 A(2-)6-∞ G (2) | estambres tetradínamos, frecuentemente fruto en silicua
+Caricaceae | simples(lobuladas)-alternas | est * K5 [C(5), A5+5,] G0, pis * K5 [C(5) A5+5] G0 | Crecimiento paquicaule     
+
 
 ## Sapindales
 
-En este grupo encontramos siete familias, es dominante en este grupo la presencia de hojas alternas y compuestas, por esto es frecuente que sean confundidas con especies de Fabaceae, sin embargo en la siguiente tabla hay algunas pistas para diferenciarlas.
+familia | hojas | fórmula floral | caracteres clave
+--------|-------|----------------|------------------
+Rutaceae | simples o compuestas, alternas o ráramente opuestas  |* K(4-5) C(4-6) A(4-∞) G(4-∞) | estambres tetradínamos, frecuentemente fruto en silicua
+Meliaceae | Pinadas (raramente bipinadas), alternas | * K(4-5) C4-6 A(4-10) G(2-6) | estambres fusionados formando un tubo estaminal
+Anacardiaceae | compuestas o simples (raramente simples en el neotrópico), alternas |est * K(5) C5 A5-10 G(3-5). pis * K(5) C5 A5-10. G(3-5) | resina aromática  
+Sapindaceae | Pinadas, trifolioladas o biternadas (raramente simples o unifolioladas) | est * K(4-5) C4-5 A4-8 G(0 ó 2-3). pis * K(4-5) C4-5 A4-8. G(2-3) | en las especies arbóreas un mucrón apical, en las lianas es común la presencia de exudado blanco   
+
+
+En este grupo encontramos nueve familias, es dominante la presencia de hojas alternas y compuestas, por esto es frecuente que sean confundidas con especies de Fabaceae, sin embargo en la siguiente tabla hay algunas pistas para diferenciarlas.
 
 Caracter | Fabaceae     | Sapindales
 ---------|--------------|-----------
@@ -85,18 +102,12 @@ Estípulas | siempre presentes| presentes solo en las trepadoras
 pulvinulos | presentes | ausentes
 Aroma | poco común | común en Ancardiaceae y Burseraceae
 
-## Brassicales
+Las relaciones filogenéticas entre las familias, muestran que Anacardiaceae y Burseraceae están estrechamente relacionadas, lo que se evidencia en la morfología. Por su parte, Sapindaceae incluye tres subfamilias, las cuales eran tratadas anteriormente como familias.
 
-Este orden tiene una familia de gran importancia económica por proporcionar alimentos, la familia Brassicaceae....
+![relaciones entre familias de Sapindales, tomado de APWEB](sapindales1notl.gif)
 
-## Malvales
+## Especies de interés económico
 
-
-
-
-
-
-
-
-
-
+Numerosas especies de Meliaceae son maderables, como el Cedro (*Cedrela montana*, *Cedrela odorata*), y el Caobo *Swietenia macrophylla*. 
+En Sapindaceae se encuentran numerosas frutas asiáticas, de las cuales es consumido el arilo de sus frutos en drupa, originario de América es el Mamoncillo (*Meliccocus bijugatus*), que se cosecha en temporada a partir de arboles no cultivados. Otro producto importante de la Amazonia es el Guaraná (*Paullinia cupana*), de cuyas semillas se extraen bebidas energéticas y otros productos estimulantes, nutricionales y medicinales.
+En Rutaceae encontramos que el género *Citrus* incluye numerosas especies cuyos frutos, llamados cítricos, son ampliamente consumidos alrededor del mundo, la Ruda (*Ruta graveolens*) es usada para el tratamiento de numerosas dolencias.
