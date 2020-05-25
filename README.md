@@ -15,9 +15,6 @@ Al final del curso los estudiantes estarán en capacidad de:
 * Reforzar el estudio de las características morfológicas y botánicas de las familias para lograr su reconocimiento en el campo.
 * Considerar el trabajo taxonómico como parte fundamental y apoyo importante a la investigación en agronomía
 
-
-# Semana 1. Introducción a la Botánica sistemática
-.
 # Semana 10 (11 al 15 de mayo). Fabidas 2/2
 
 ## Familia Fabaceae
@@ -36,8 +33,8 @@ Número de estambres | generalmente 10 | generalmente 10 | incontables
 División de las hojas | trifolioladas o imparipinadas | pinadas o bipinadas | generalmente bipinadas (excepto en *Inga*)
 Nectarios extraflorales | ausentes | poco comunes | muy comunes
 
->*La actividad que deben realizar esta semana*
-Esta leerán por lo menos las cinco primeras páginas el artículo de [Yahara et al. 2013](https://scinapse.io/papers/2021369172), que también está disponible en el [Drive](https://drive.google.com/drive/u/1/folders/1UP3_kcpkwKeg_e1UIyjlxf05HyVDmhMV) y en Moodle.
+>*Actividad de la semana*
+Leerán por lo menos las cinco primeras páginas el artículo de [Yahara et al. 2013](https://scinapse.io/papers/2021369172), que también está disponible en el [Drive](https://drive.google.com/drive/u/1/folders/1UP3_kcpkwKeg_e1UIyjlxf05HyVDmhMV) y en Moodle.
   
 
 # Semana 11. Malvidas
