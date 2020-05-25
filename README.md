@@ -47,10 +47,10 @@ En este grupo encontramos siete familias, es dominante en este grupo la presenci
 
 Caracter | Fabaceae     | Sapindales
 ---------|--------------|-----------
-Forma de crecimiento | arborescente | trepadora | arborescente | trepadora
----------------------|--------------|-----------|--------------|----------
-Estípulas | libres | libres | ausentes | libres
-pulvinulos | presentes | presentes | ausentes | ausentes
+Estípulas | siempre presentes| presentes solo en las trepadoras
+pulvinulos | presentes | ausentes
+Aroma | poco común | común en Ancardiaceae y Burseraceae
+
 
 
 
