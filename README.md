@@ -86,6 +86,10 @@ Caricaceae | simples(lobuladas)-alternas | est * K5 [C(5), A5+5,] G0, pis * K5 [
 
 ## Sapindales
 
+En este orden encontramos 9 familias, de las cuales vimos cuatro en la clase. Las flores son casi siempre de tamaño pequeño y agrupadas en inflorescencias cimosas. En términos generales las flores son típica dentro de las Rosidas, en cuanto las flores son casi siempre polisimétricas, y 4 o 5-meras, los pétalos libres e imbricados, y los estambres diplostemonos
+>>Estambres diplostemonos: Que son el doble de lo pétalos. Y asociados a esto obdiplostemonos, cuando la serie externa de estambres es opuesta a los pétalos, lo que contrario a la regla de alternancia de las partes florales.
+  
+
 familia | hojas | fórmula floral | caracteres clave
 --------|-------|----------------|------------------
 Rutaceae | simples o compuestas, alternas o ráramente opuestas  |* K(4-5) C(4-6) A(4-∞) G(4-∞) | estambres tetradínamos, frecuentemente fruto en silicua
@@ -94,7 +98,7 @@ Anacardiaceae | compuestas o simples (raramente simples en el neotrópico), alte
 Sapindaceae | Pinadas, trifolioladas o biternadas (raramente simples o unifolioladas) | est * K(4-5) C4-5 A4-8 G(0 ó 2-3). pis * K(4-5) C4-5 A4-8. G(2-3) | en las especies arbóreas un mucrón apical, en las lianas es común la presencia de exudado blanco   
 
 
-En este grupo encontramos nueve familias, es dominante la presencia de hojas alternas y compuestas, por esto es frecuente que sean confundidas con especies de Fabaceae, sin embargo en la siguiente tabla hay algunas pistas para diferenciarlas.
+En este grupo es dominante la presencia de hojas alternas y compuestas, por esto es frecuente que sean confundidas con especies de Fabaceae, sin embargo en la siguiente tabla hay algunas pistas para diferenciarlas.
 
 Caracter | Fabaceae     | Sapindales
 ---------|--------------|-----------
