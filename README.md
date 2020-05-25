@@ -48,7 +48,10 @@ A continuación les presento un resumen de los órdenes y familias que vimos en 
 Orden | familia | hojas | fórmula floral | caracteres clave
 ------|---------|-------|----------------|---------------
 Myrtales | Myrtaceae | simples-opuestas | * , K(4-5), C (4-5), A (∞), Ĝ (-2-5-) | hojas con puntos translucidos, venación broquidódroma
-Myrtales | Melastomataceae | simples-opuestas | * , [K(3-6), C (4-5), A (∞)], Ĝ (2-10) | venación acródroma 
+Myrtales | Melastomataceae | simples-opuestas | * ó ↓, [K(3-6), C (4-5), A (∞)], Ĝ (2-10) | venación acródroma 
+Brassicales | Brassicaceae | simples-alternas, en rosetas basales | * ó ↓, K4, C4, A(2-)6-∞, G (2) | estambres tetradínamos, frecuentemente fruto en silicua
+Brassicales | Caricaceae | simples(lobuladas)-alternas | est * , K5, [C(5), A5+5,] G0, pis * , K5, [C(5), A5+5,] G0 | Crecimiento paquicaule     
+
 
 Según el [catálogo de las plantas de Colombia](http://catalogoplantasdecolombia.unal.edu.co/es/), en Colombia existen 60 géneros y 987 especies de esta familia. Es especialmente diversa en bosques andinos, y es frecuentemente una de las familias dominantes en el estrato arbóreo.
 
