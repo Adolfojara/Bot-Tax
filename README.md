@@ -48,12 +48,11 @@ A continuación les presento un resumen de los órdenes y familias que vimos en 
 Orden | familia | hojas | fórmula floral | caracteres clave
 ------|---------|-------|----------------|---------------
 Myrtales | Myrtaceae | simples-opuestas | * , K(4-5), C (4-5), A (∞), Ĝ (-2-5-) | hojas con puntos translucidos, venación broquidódroma
-
 Myrtales | Melastomataceae | simples-opuestas | * , [K(3-6), C (4-5), A (∞)], Ĝ (2-10) | venación acródroma 
 
 Según el [catálogo de las plantas de Colombia](http://catalogoplantasdecolombia.unal.edu.co/es/), en Colombia existen 60 géneros y 987 especies de esta familia. Es especialmente diversa en bosques andinos, y es frecuentemente una de las familias dominantes en el estrato arbóreo.
 
-### Myrtaceae
+### Especies útiles en la familia Myrtaceae
 
 Una familia de gran importancia agrícola, allí encontramos varias especies comestibles como:
 
