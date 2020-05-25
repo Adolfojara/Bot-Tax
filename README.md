@@ -41,6 +41,17 @@ Este clado, junto con las Fabidas, conforma las Rosidas nucleares. Está conform
 
 ![Filogenia Malvales](documentation/malvales.svg)
 
+## Sapindales
+
+En este grupo encontramos siete familias, es dominante en este grupo la presencia de hojas alternas y compuestas, por esto es frecuente que sean confundidas con especies de Fabaceae, sin embargo en la siguiente tabla hay algunas pistas para diferenciarlas.
+
+Caracter | Fabaceae     | Sapindales
+---------|--------------|-----------
+Forma de crecimiento | arborescente | trepadora | arborescente | trepadora
+---------------------|--------------|-----------|--------------|----------
+Estípulas | libres | libres | ausentes | libres
+pulvinulos | presentes | presentes | ausentes | ausentes
+
 
 
 
