@@ -78,28 +78,24 @@ Según el [catálogo de las plantas de Colombia](http://catalogoplantasdecolombi
 
 ## Brassicales
 
-Un orden con 19 familias de muy amplia variación morfológica, sin embargo comparten un caracter químico, la presencia de aceites volátiles de mostaza. La mayoría de las Brassicales presentan flores tetrámeras, presencia de ginoforo, ovario curvado y ovulos.
+Un orden con 19 familias de muy amplia variación morfológica, sin embargo comparten un caracter químico, la presencia de aceites volátiles de mostaza o glucosinatos. La mayoría de las Brassicales presentan flores tetrámeras, aunque el estado plesiomorfico posiblemente sea de flores pentámeras. Presenta una tendencia hacia las flores monosimétricas, presencia de ginoforo, ovario curvado y óvulos campilótropos. El ginóforo aunque también se presenta en varias familias de Malvales, es especialmente conspicuo en este orden. 
 
-El profesor Enrique Pérez Arbeláez en su libro "Planta útiles de Colombia", pone esta cita en la sección dedicada a la familia Brassicaceae.
-
->"Come, wander with me", she said,
-into regions yet untrod,
-and read what is until unreaded
-in the manuscript of God
->H. W. Longfellow
+En APG II la familia fue tratada, incluyendo las familias Caparaceae y Cleomacea, las que posteriormente fueron segregadas como familias separadas, con evidente justificación morfológica.
 
 
-
+Este es una tabla comparativa de las dos familias de Brassicales que vimos en clase.
 
 familia | hojas | fórmula floral | caracteres clave
 --------|-------|----------------|------------------
 Brassicaceae | simples-alternas, en rosetas basales | * ó ↓ K4 C4 A(2-)6-∞ G (2) | estambres tetradínamos, frecuentemente fruto en silicua
 Caricaceae | simples(lobuladas)-alternas | est * K5 [C(5), A5+5,] G0, pis * K5 [C(5) A5+5] G0 | Crecimiento paquicaule     
 
+La importancia económica del orden recae en gran parte en una especie, *Brassica oleracea*. Posiblemente originaria del Asia menor, esta especie produce distintos productos comestibles a partir de la proliferación o y modificación en distintas partes vegetativas. Así, la variedad *acephala* es la Col común, de la cual se consumen sus hojas, el Coliflor y el Brócoli son la variedad *botrytis*, en el cual se consumen principalmente los ejes de la inflorescencia, bracteas y botones florales, las Coles de Bruselas, son lavariedad *gemmifera*, de la cual se consumen los brotes que se agrupan a lo largo de un eje central largo con las hojas en el ápice, y el Repollo es la variedad *capitata*, en la cual las hojas se presentan firmemente sobrelapadas, de estos los hay de colores blanco, verde, rojo y morado.       
+
 
 ## Sapindales
 
-En este orden encontramos 9 familias, de las cuales vimos cuatro en la clase. Las flores son casi siempre de tamaño pequeño y agrupadas en inflorescencias cimosas. En términos generales las flores son típica dentro de las Rosidas, en cuanto las flores son casi siempre polisimétricas, y 4 o 5-meras, los pétalos libres e imbricados, y los estambres diplostemonos
+En este orden encontramos 9 familias, de las cuales vimos cuatro en la clase. Las flores son casi siempre de tamaño pequeño y agrupadas en inflorescencias cimosas. A diferencia de las Brassicales, aquí son dominantes plantas leñosas, mientras en Brassicales se presentan muchas herbáceas. En términos generales las flores son típica dentro de las Rosidas, en cuanto las flores son casi siempre polisimétricas, y 4 o 5-meras, los pétalos libres e imbricados, y los estambres diplostemonos
 
 >_Estambres diplostemonos_: Que son el doble de lo pétalos. Y asociados a esto obdiplostemonos, cuando la serie externa de estambres es opuesta a los pétalos, lo que contrario a la regla de alternancia de las partes florales.
 
