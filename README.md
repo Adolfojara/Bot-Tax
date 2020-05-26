@@ -74,9 +74,22 @@ Numerosas especies maderables y ornamentales introducidas de Australia:
 
 ### familia Melastomataceae
 
-Según el [catálogo de las plantas de Colombia](http://catalogoplantasdecolombia.unal.edu.co/es/), en Colombia existen 60 géneros y 987 especies de esta familia. Es especialmente diversa en bosques andinos, y es frecuentemente una de las familias dominantes en el estrato arbóreo.
+Según el [catálogo de las plantas de Colombia](http://catalogoplantasdecolombia.unal.edu.co/es/), en Colombia existen 60 géneros y 987 especies de esta familia. Es especialmente diversa en bosques andinos, y es frecuentemente una de las familias dominantes en el estrato arbóreo. 
 
 ## Brassicales
+
+Un orden con 19 familias de muy amplia variación morfológica, sin embargo comparten un caracter químico, la presencia de aceites volátiles de mostaza. La mayoría de las Brassicales presentan flores tetrámeras, presencia de ginoforo, ovario curvado y ovulos.
+
+El profesor Enrique Pérez Arbeláez en su libro "Planta útiles de Colombia", pone esta cita en la sección dedicada a la familia Brassicaceae.
+
+>"Come, wander with me", she said,
+into regions yet untrod,
+and read what is until unreaded
+in the manuscript of God
+>H. W. Longfellow
+
+
+
 
 familia | hojas | fórmula floral | caracteres clave
 --------|-------|----------------|------------------
@@ -87,7 +100,10 @@ Caricaceae | simples(lobuladas)-alternas | est * K5 [C(5), A5+5,] G0, pis * K5 [
 ## Sapindales
 
 En este orden encontramos 9 familias, de las cuales vimos cuatro en la clase. Las flores son casi siempre de tamaño pequeño y agrupadas en inflorescencias cimosas. En términos generales las flores son típica dentro de las Rosidas, en cuanto las flores son casi siempre polisimétricas, y 4 o 5-meras, los pétalos libres e imbricados, y los estambres diplostemonos
->>Estambres diplostemonos: Que son el doble de lo pétalos. Y asociados a esto obdiplostemonos, cuando la serie externa de estambres es opuesta a los pétalos, lo que contrario a la regla de alternancia de las partes florales.
+
+>_Estambres diplostemonos_: Que son el doble de lo pétalos. Y asociados a esto obdiplostemonos, cuando la serie externa de estambres es opuesta a los pétalos, lo que contrario a la regla de alternancia de las partes florales.
+
+El gineceo es súpero frecuentemente del mismo número que partes del perianto (isomero), o reducido a 2 o 3 carpelos, con placentación axilar.
   
 
 familia | hojas | fórmula floral | caracteres clave
