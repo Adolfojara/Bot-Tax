@@ -78,7 +78,7 @@ Según el [catálogo de las plantas de Colombia](http://catalogoplantasdecolombi
 
 ## Brassicales
 
-Un orden con 19 familias de muy amplia variación morfológica, sin embargo comparten un caracter químico, la presencia de aceites volátiles de mostaza o glucosinatos. La mayoría de las Brassicales presentan flores tetrámeras, aunque el estado plesiomorfico posiblemente sea de flores pentámeras. Presenta una tendencia hacia las flores monosimétricas, presencia de ginoforo, ovario curvado y óvulos campilótropos. El ginóforo aunque también se presenta en varias familias de Malvales, es especialmente conspicuo en este orden. 
+Un orden con 19 familias de muy amplia variación morfológica, sin embargo comparten un caracter químico, la presencia de aceites volátiles de mostaza o glucosinatos. La mayoría de las Brassicales presentan flores tetrámeras, aunque el estado plesiomorfico posiblemente sea de flores pentámeras. Presenta una tendencia hacia las flores monosimétricas, presencia de ginóforo, ovario curvado y óvulos campilótropos. El ginóforo aunque también se presenta en varias familias de Malvales, es especialmente conspicuo en este orden. 
 
 En APG II la familia fue tratada, incluyendo las familias Caparaceae y Cleomacea, las que posteriormente fueron segregadas como familias separadas, con evidente justificación morfológica.
 
@@ -90,16 +90,16 @@ familia | hojas | fórmula floral | caracteres clave
 Brassicaceae | simples-alternas, en rosetas basales | * ó ↓ K4 C4 A(2-)6-∞ G (2) | estambres tetradínamos, frecuentemente fruto en silicua
 Caricaceae | simples(lobuladas)-alternas | est * K5 [C(5), A5+5,] G0, pis * K5 [C(5) A5+5] G0 | Crecimiento paquicaule     
 
-La importancia económica del orden recae en gran parte en una especie, *Brassica oleracea*. Posiblemente originaria del Asia menor, esta especie produce distintos productos comestibles a partir de la proliferación o y modificación en distintas partes vegetativas. Así, la variedad *acephala* es la Col común, de la cual se consumen sus hojas, el Coliflor y el Brócoli son la variedad *botrytis*, en el cual se consumen principalmente los ejes de la inflorescencia, bracteas y botones florales, las Coles de Bruselas, son lavariedad *gemmifera*, de la cual se consumen los brotes que se agrupan a lo largo de un eje central largo con las hojas en el ápice, y el Repollo es la variedad *capitata*, en la cual las hojas se presentan firmemente sobrelapadas, de estos los hay de colores blanco, verde, rojo y morado.       
+La importancia económica del orden recae en gran parte en una especie, *Brassica oleracea*. Posiblemente originaria del Asia menor, esta especie produce distintos productos comestibles a partir de la proliferación o modificación en distintas partes vegetativas. Así, la variedad *acephala* es la Col común, de la cual se consumen sus hojas, el Coliflor y el Brócoli son la variedad *botrytis*, en el cual se consumen principalmente los ejes de la inflorescencia, bracteas y botones florales, las Coles de Bruselas, son lavariedad *gemmifera*, de la cual se consumen los brotes que se agrupan a lo largo de un eje central prolongado, con las hojas en el ápice, y el Repollo es la variedad *capitata*, en la cual las hojas se presentan firmemente sobrelapadas, de estos los hay de colores blanco, verde, rojo y morado.       
 
 
 ## Sapindales
 
-En este orden encontramos 9 familias, de las cuales vimos cuatro en la clase. Las flores son casi siempre de tamaño pequeño y agrupadas en inflorescencias cimosas. A diferencia de las Brassicales, aquí son dominantes plantas leñosas, mientras en Brassicales se presentan muchas herbáceas. En términos generales las flores son típica dentro de las Rosidas, en cuanto las flores son casi siempre polisimétricas, y 4 o 5-meras, los pétalos libres e imbricados, y los estambres diplostemonos
+En este orden encontramos 9 familias, de las cuales vimos cuatro en la clase. Las flores son casi siempre de tamaño pequeño y agrupadas en inflorescencias cimosas. A diferencia de las Brassicales, donde predominan las herbáceas, aquí principalmente hay plantas leñosas. En términos generales las flores son típicas dentro de las Rosidas, siendo casi siempre polisimétricas, y 4 o 5-meras, los pétalos libres e imbricados, y los estambres diplostemonos
 
 >_Estambres diplostemonos_: Que son el doble de lo pétalos. Y asociados a esto obdiplostemonos, cuando la serie externa de estambres es opuesta a los pétalos, lo que contrario a la regla de alternancia de las partes florales.
 
-El gineceo es súpero frecuentemente del mismo número que partes del perianto (isomero), o reducido a 2 o 3 carpelos, con placentación axilar.
+El gineceo es súpero, frecuentemente del mismo número que partes del perianto (isomero), o reducido a 2 o 3 carpelos, con placentación axilar.
   
 
 familia | hojas | fórmula floral | caracteres clave
@@ -107,18 +107,18 @@ familia | hojas | fórmula floral | caracteres clave
 Rutaceae | simples o compuestas, alternas o ráramente opuestas  |* K(4-5) C(4-6) A(4-∞) G(4-∞) | estambres tetradínamos, frecuentemente fruto en silicua
 Meliaceae | Pinadas (raramente bipinadas), alternas | * K(4-5) C4-6 A(4-10) G(2-6) | estambres fusionados formando un tubo estaminal
 Anacardiaceae | compuestas o simples (raramente simples en el neotrópico), alternas |est * K(5) C5 A5-10 G(3-5). pis * K(5) C5 A5-10. G(3-5) | resina aromática  
-Sapindaceae | Pinadas, trifolioladas o biternadas (raramente simples o unifolioladas) | est * K(4-5) C4-5 A4-8 G(0 ó 2-3). pis * K(4-5) C4-5 A4-8. G(2-3) | en las especies arbóreas un mucrón apical, en las lianas es común la presencia de exudado blanco   
+Sapindaceae | Pinadas, trifolioladas o biternadas (raramente simples o unifolioladas) | est * K(4-5) C4-5 A4-8 G(0 ó 2-3). pis * K(4-5) C4-5 A4-8. G(2-3) | en las especies arbóreas un mucrón apical en las hojas, en las lianas es común la presencia de exudado blanco   
 
 
-En este grupo es dominante la presencia de hojas alternas y compuestas, por esto es frecuente que sean confundidas con especies de Fabaceae, sin embargo en la siguiente tabla hay algunas pistas para diferenciarlas.
+Vegetativamente este grupo suele ser confundido con especies de la familia Fabaceae, por esto en la siguiente tabla hay algunas pistas para diferenciarlas.
 
 Caracter | Fabaceae     | Sapindales
 ---------|--------------|-----------
 Estípulas | siempre presentes| presentes solo en las trepadoras
-pulvinulos | presentes | ausentes
-Aroma | poco común | común en Ancardiaceae y Burseraceae
+pulvinulos | presentes | ausentes (pero pueden tener engrosamiento no cilíndricos)
+Aroma | poco común | común en Rutaceae, Ancardiaceae y Burseraceae
 
-Las relaciones filogenéticas entre las familias, muestran que Anacardiaceae y Burseraceae están estrechamente relacionadas, lo que se evidencia en la morfología. Por su parte, Sapindaceae incluye tres subfamilias, las cuales eran tratadas anteriormente como familias.
+Las relaciones filogenéticas entre las familias muestran que Anacardiaceae y Burseraceae están estrechamente relacionadas, lo que se evidencia en la morfología. Por su parte, Sapindaceae incluye tres subfamilias, las cuales eran tratadas anteriormente como familias.
 
 ![relaciones entre familias de Sapindales, tomado de APWEB](sapindales1notl.gif)
 
@@ -127,3 +127,28 @@ Las relaciones filogenéticas entre las familias, muestran que Anacardiaceae y B
 Numerosas especies de Meliaceae son maderables, como el Cedro (*Cedrela montana*, *Cedrela odorata*), y el Caobo *Swietenia macrophylla*. 
 En Sapindaceae se encuentran numerosas frutas asiáticas, de las cuales es consumido el arilo de sus frutos en drupa, originario de América es el Mamoncillo (*Meliccocus bijugatus*), que se cosecha en temporada a partir de arboles no cultivados. Otro producto importante de la Amazonia es el Guaraná (*Paullinia cupana*), de cuyas semillas se extraen bebidas energéticas y otros productos estimulantes, nutricionales y medicinales.
 En Rutaceae encontramos que el género *Citrus* incluye numerosas especies cuyos frutos, llamados cítricos, son ampliamente consumidos alrededor del mundo, la Ruda (*Ruta graveolens*) es usada para el tratamiento de numerosas dolencias.
+
+# Semana 12. Superasteridas 1
+
+## Orden Caryophyllales
+Este es un grupo actualmente bien establecido, de 37 familias
+
+Este grupo está ubicado en la segunda edición del libro dentro de las Rosidas basales, sin embargo a partir de la segunda versión del [APG](https://scinapse.io/papers/2166152751), están ubicadas en dentro de las Asteridas basales.
+
+
+# Trabajo final
+
+El trabajo final consistirá en en la elaboración de un ensayo de de máximo 10 páginas (incluyendo imágenes y la bibliografía), letra Arial 12, espacio sencillo. En el cual cada estudiante abordará los siguientes aspectos de la especies que le corresponda.
+
+* Nomenclatura: En esta parte se debe investigar y presentar la historia taxonómica de la especie; quien la describió por primera vez, en que obra, si han habido cambios a otros géneros o familias, etc.
+
+* Descripción morfológica, siguiendo los parámetros de las descripciones taxonómicas, pueden guiarse por descripciones como las de Flora de Colombia, por ejemplo la descripción de [Cydista divesifolia](http://www.biovirtual.unal.edu.co/floradecolombia/es/description/304/).
+
+* Relaciones filogenéticas y biogeografía: 
+
+* Usos: recopilación de información sobre los usos potenciales y actuales de la especie asignada.
+
+
+
+
+    
