@@ -144,7 +144,7 @@ El trabajo final consistirá en en la elaboración de un ensayo de de máximo 10
 
 * Descripción morfológica, siguiendo los parámetros de las descripciones taxonómicas, pueden guiarse por descripciones como las de Flora de Colombia, por ejemplo la descripción de [Cydista divesifolia](http://www.biovirtual.unal.edu.co/floradecolombia/es/description/304/).
 
-* Relaciones filogenéticas y biogeografía: 
+* Relaciones filogenéticas y biogeografía
 
 * Usos: recopilación de información sobre los usos potenciales y actuales de la especie asignada.
 
