@@ -148,6 +148,7 @@ El trabajo final consistirá en en la elaboración de un ensayo de de máximo 10
 
 * Usos: recopilación de información sobre los usos potenciales y actuales de la especie asignada.
 
+El ensayo deberá ser sustentado con una presentación de 5 minutos
 
 
 
