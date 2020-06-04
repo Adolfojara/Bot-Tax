@@ -151,5 +151,9 @@ El trabajo final consistirá en en la elaboración de un ensayo de de máximo 10
 El ensayo deberá ser sustentado con una presentación de 5 minutos
 
 
+La fecha límite para la entrega de los ensayos es el día 18 de junio, fecha en la que iniciaremos las presentaciones.
+
+
+
 
     
