@@ -128,10 +128,10 @@ Numerosas especies de Meliaceae son maderables, como el Cedro (*Cedrela montana*
 En Sapindaceae se encuentran numerosas frutas asiáticas, de las cuales es consumido el arilo de sus frutos en drupa, originario de América es el Mamoncillo (*Meliccocus bijugatus*), que se cosecha en temporada a partir de arboles no cultivados. Otro producto importante de la Amazonia es el Guaraná (*Paullinia cupana*), de cuyas semillas se extraen bebidas energéticas y otros productos estimulantes, nutricionales y medicinales.
 En Rutaceae encontramos que el género *Citrus* incluye numerosas especies cuyos frutos, llamados cítricos, son ampliamente consumidos alrededor del mundo, la Ruda (*Ruta graveolens*) es usada para el tratamiento de numerosas dolencias.
 
-# Semana 12. Superasteridas 1
+# semana 13. Superasteridas 1
 
 ## Orden Caryophyllales
-Este es un grupo actualmente bien establecido, de 37 familias
+Este es un grupo de 37 familias
 
 Este grupo está ubicado en la segunda edición del libro dentro de las Rosidas basales, sin embargo a partir de la segunda versión del [APG](https://scinapse.io/papers/2166152751), están ubicadas en dentro de las Asteridas basales.
 
