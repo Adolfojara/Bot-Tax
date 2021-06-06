@@ -128,14 +128,14 @@ Numerosas especies de Meliaceae son maderables, como el Cedro (*Cedrela montana*
 En Sapindaceae se encuentran numerosas frutas asiáticas, de las cuales es consumido el arilo de sus frutos en drupa, originario de América es el Mamoncillo (*Meliccocus bijugatus*), que se cosecha en temporada a partir de arboles no cultivados. Otro producto importante de la Amazonia es el Guaraná (*Paullinia cupana*), de cuyas semillas se extraen bebidas energéticas y otros productos estimulantes, nutricionales y medicinales.
 En Rutaceae encontramos que el género *Citrus* incluye numerosas especies cuyos frutos, llamados cítricos, son ampliamente consumidos alrededor del mundo, la Ruda (*Ruta graveolens*) es usada para el tratamiento de numerosas dolencias.
 
-# semana 13. Superasteridas 1
+# semana 13. Caryophyllales
 
 ## Orden Caryophyllales
 Este es un grupo de 37 familias. La mayoría de especies en este grupo son hierbas de hojas opuestas. 
 
 ### Familia Caryophyllaceae
 
-### Familia Polugonaceae
+### Familia Polygonaceae
 
 ### Familia Cactaceae
 
@@ -143,13 +143,38 @@ Este es un grupo de 37 familias. La mayoría de especies en este grupo son hierb
 
 
 
-# semana 14. Orden Ericales
+# semana 14. Ericales
 
 ### Familia Ericaceae
 
 Esta es una familia común en Colombia, la encontramos principalmente en regiones de alta montaña, como en los páramos y especialmente en la franja entre la zona de bosque nublado y el comienzo del páramo.
 
-
-
 ### Familia Sapotaceae
     
+# semana 15. Asteridas nucleares 1 (Lamidas)
+
+## Orden Solanales
+
+### familia Solanaceae
+
+## orden Gentianales
+
+### familia Apocynaceae
+
+### familia Rubiaceae
+
+# semana 16. Asterales
+
+## orden Apiales
+
+### familia Apiaceae
+
+### familia Araliaceae
+
+## orden Asterales
+
+### familia Asteraceae
+
+
+
+
