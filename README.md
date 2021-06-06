@@ -131,29 +131,25 @@ En Rutaceae encontramos que el género *Citrus* incluye numerosas especies cuyos
 # semana 13. Superasteridas 1
 
 ## Orden Caryophyllales
-Este es un grupo de 37 familias
+Este es un grupo de 37 familias. La mayoría de especies en este grupo son hierbas de hojas opuestas. 
 
-Este grupo está ubicado en la segunda edición del libro dentro de las Rosidas basales, sin embargo a partir de la segunda versión del [APG](https://scinapse.io/papers/2166152751), están ubicadas en dentro de las Asteridas basales.
+### Familia Caryophyllaceae
 
+### Familia Polugonaceae
 
-# Trabajo final
+### Familia Cactaceae
 
-El trabajo final consistirá en en la elaboración de un ensayo de de máximo 10 páginas (incluyendo imágenes y la bibliografía), letra Arial 12, espacio sencillo. En el cual cada estudiante abordará los siguientes aspectos de la especies que le corresponda.
-
-* Nomenclatura: En esta parte se debe investigar y presentar la historia taxonómica de la especie; quien la describió por primera vez, en que obra, si han habido cambios a otros géneros o familias, etc.
-
-* Descripción morfológica, siguiendo los parámetros de las descripciones taxonómicas, pueden guiarse por descripciones como las de Flora de Colombia, por ejemplo la descripción de [Cydista divesifolia](http://www.biovirtual.unal.edu.co/floradecolombia/es/description/304/).
-
-* Relaciones filogenéticas y biogeografía
-
-* Usos: recopilación de información sobre los usos potenciales y actuales de la especie asignada.
-
-El ensayo deberá ser sustentado con una presentación de 5 minutos
-
-
-La fecha límite para la entrega de los ensayos es el día 18 de junio, fecha en la que iniciaremos las presentaciones.
+### Familia Amaranthaceae
 
 
 
+# semana 14. Orden Ericales
 
+### Familia Ericaceae
+
+Esta es una familia común en Colombia, la encontramos principalmente en regiones de alta montaña, como en los páramos y especialmente en la franja entre la zona de bosque nublado y el comienzo del páramo.
+
+
+
+### Familia Sapotaceae
     
